@@ -1,0 +1,8 @@
+https://www.kaggle.com/c/sf-crime/overview/evaluation 
+adresindeki problemi kendi bilgisayarımızda gerçeklemeye çalışıyoruz.
+
+v001.ipynb : şu çözümü kopyalamaya çalıştık. 
+https://www.kaggle.com/yannisp/sf-crime-analysis-prediction
+
+v002 klasörü: we will solve the problem again in the same way.
+v002/v001.ipyn: we will solve the problem again in the same way.
